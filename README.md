@@ -57,6 +57,8 @@ Hybrid approaches generally improved segmentation quality by combining strengths
 - Quantitative evaluation metrics
 - Improved preprocessing techniques
 - Larger medical imaging datasets
+- Compare segmentation outputs using Dice Score or IoU.
+- Add a final comparison table ranking each method.
 
 ---
 
